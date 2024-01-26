@@ -1,0 +1,14 @@
+langchain 
+pypdf 
+unstructured 
+sentence_transformers 
+pinecone-client 
+llama-cpp-python 
+huggingface_hub 
+fastapi 
+kaleido 
+python-multipart 
+uvicorn 
+openai 
+cohere 
+tiktoken
